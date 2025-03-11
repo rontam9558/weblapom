@@ -1,0 +1,2 @@
+# weblapom
+Rónaszegi Tamás személyes
