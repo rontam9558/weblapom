@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(198, 245, 231, 0.921);
+    width: 800px; 
+    margin: auto;
+    font-family: Verdana;
+}
+
+ul li {
+    display:inline;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+
+  ul li a {color:white}
+
+  a {
+    color:black;
+  }
+
+  p{
+    text-align: justify;
+  }
+
+  table img{
+    width: 100%;
+ }
+
+ tr {
+     text-align: center;
+  }
+
+ 
+#menu,#labresz{
+    background-color: darkcyan;
+    margin: auto;
+    padding: 10px;
+    color: white;
+}
+
+#folap,#hobbi{
+    background-color: cyan;
+    padding: 30px;
+}
+
+#iskola,#sport{
+    background-color: white;
+    padding: 30px;
+}
+
+#folap img {
+    width:300px;
+    border-radius: 50%;
+
+}
+
+.kozepre {
+    text-align:center;
+}
+
+.jobbra{
+    float: right;
+}
+
+
+  .imagediv{
+    width: 20%;
+
+}
+.szovegdiv{
+    width: 80%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.tartalomdiv{
+    display: flex;
+    text-align: justify;
+    margin-top: 5px;
+    padding: 10px;
+ }
+
+ .tartalomdiv img {
+    width:100%;
+ }
+
+ 
+ .visszaallit{
+    clear: both;
+ }
